@@ -84,3 +84,15 @@ cd ..
 %clean
 rm -rf %{buildroot}
 
+
+
+%changelog
+* Wed Oct 26 2011 Götz Waschk <waschk@mandriva.org> 0.1-2mdv2012.0
++ Revision: 707255
+- rebuild for new libmtp
+
+* Sat Dec 06 2008 Nicolas Lécureuil <nlecureuil@mandriva.com> 0.1-1mdv2009.1
++ Revision: 310922
+- import devicesync
+
+
