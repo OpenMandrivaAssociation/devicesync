@@ -2,7 +2,7 @@
 Name:           devicesync
 Version:        0.1
 Summary:        An application that lets you transfer data between devices
-Release:        %mkrel 2
+Release:        3
 License:        GPL
 Group:          Graphical desktop/KDE
 URL:            http://www.kde.org
