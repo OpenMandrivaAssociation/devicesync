@@ -5,7 +5,7 @@ Summary:        An application that lets you transfer data between devices
 Release:        3
 License:        GPL
 Group:          Graphical desktop/KDE
-URL:            http://www.kde.org
+URL:            https://www.kde.org
 Source0:        http://prdownloads.sourceforge.net/%{name}/%{name}-%{version}.%{svn}.tar.bz2
 BuildRoot:      %_tmppath/%name-%version-%release-buildroot
 BuildRequires:  kdelibs4-devel
