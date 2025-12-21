@@ -8,6 +8,7 @@ Group:          Graphical desktop/KDE
 URL:            https://www.kde.org
 Source0:        http://prdownloads.sourceforge.net/%{name}/%{name}-%{version}.%{svn}.tar.bz2
 BuildRoot:      %_tmppath/%name-%version-%release-buildroot
+BuildRequires:	make
 BuildRequires:  kdelibs4-devel
 BuildRequires:  libmtp-devel
 BuildRequires:  taglib-devel
